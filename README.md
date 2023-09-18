@@ -228,7 +228,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [X] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
@@ -339,7 +339,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
