@@ -23,10 +23,10 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
@@ -38,7 +38,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
@@ -48,7 +48,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Merge Intervals
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
@@ -154,7 +154,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
 
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [X] [Word Search](https://leetcode.com/problems/word-search/)
 
 - [ ] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
@@ -280,7 +280,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [X] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
 - [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
