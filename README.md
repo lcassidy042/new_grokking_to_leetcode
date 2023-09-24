@@ -178,7 +178,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ## Cyclic Sort
 
