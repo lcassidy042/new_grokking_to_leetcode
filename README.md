@@ -116,7 +116,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
 - [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 
@@ -288,7 +288,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
-- [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [X] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 
 ## Union Find
 
