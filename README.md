@@ -60,7 +60,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## In-place Reversal of a Linked List
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
@@ -272,7 +272,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [X] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
 ## Knowing What to Track
 
@@ -354,7 +354,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [X] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Permutations II](https://leetcode.com/problems/permutations-ii/)
