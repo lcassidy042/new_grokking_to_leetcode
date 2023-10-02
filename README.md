@@ -42,7 +42,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
@@ -224,7 +224,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
@@ -232,7 +232,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 ## Tree Breadth First Search
 
@@ -337,7 +337,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 - [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
