@@ -50,7 +50,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
 - [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
@@ -236,7 +236,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
