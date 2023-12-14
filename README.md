@@ -168,7 +168,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [0/1 Knapsack]()?
 
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 - [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
@@ -294,7 +294,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 - [ ] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
@@ -314,7 +314,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [X] [Min Stack](https://leetcode.com/problems/min-stack/)
 
 - [ ] [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 
@@ -351,7 +351,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ] [4Sum](https://leetcode.com/problems/4sum/)
 - [ ] [Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [X] [Majority Element](https://leetcode.com/problems/majority-element/)
@@ -370,7 +370,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 - [ ] [Design File System](https://leetcode.com/problems/design-file-system/)
 - [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
-- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [X] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 
 
